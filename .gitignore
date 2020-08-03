@@ -1,0 +1,6 @@
+#Ignore
+*
+
+#Allow
+!.gitignore
+!import_plot_filter.py
